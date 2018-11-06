@@ -1,8 +1,8 @@
 {
 "plugins" : [
-  {
-    "name" : "charcoalFarm",
-    "key" : "null"
-  }
+    {
+      "name" : "charcoalFarm",
+      "key" : "null"
+    }
   ]
 }
